@@ -1,5 +1,13 @@
 # Process-Informed Conditional Diffusion Model for EEG Super-Resolution with Temporal Fidelity and Spatial Coherence
 
+<p align="center">
+
+<img src="images/reconstructed_data_SEED.png" alt="Reconstructed data for SEED" width="45%">
+
+<img src="images/topomap_SEED.png" alt="Topomap for SEED" width="45%">
+
+</p>
+
 ## :wrench: Dependencies and Installation
 
 ### System Requirements
