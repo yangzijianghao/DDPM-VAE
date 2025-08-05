@@ -8,6 +8,10 @@
 
 </p>
 
+Figure 1: Comparison of Method Architecture and Experimental Results​​
+
+​​Left: Reconstructed EEG Data from SEED Dataset | Right: Topographic Map Visualization for SEED Dataset​
+
 ## :wrench: Dependencies and Installation
 
 ### System Requirements
